@@ -202,4 +202,4 @@ Aquí tienes un **diagrama visual** del flujo de trabajo con ramas y *Pull Reque
 * Finalmente, los cambios aprobados pasan a la **rama main**.
 
 
-
+![alt text](git_flujo_ramas.png)
