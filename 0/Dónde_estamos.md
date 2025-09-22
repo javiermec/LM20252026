@@ -15,7 +15,7 @@
 ## **2. Lenguajes de marcas**
 
 * **HTML, CSS, XML, JSON, SVG.**
-* **Mundo real**: toda la web moderna, a pps móviles híbridas, intercambios de datos.
+* **Mundo real**: toda la web moderna, apps móviles híbridas, intercambios de datos.
 * **Ejemplos cercanos**: código fuente de cualquier web, configuración en videojuegos, archivos `.svg` en logos que usan a diario.
 
 ---
