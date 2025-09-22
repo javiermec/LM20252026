@@ -6,7 +6,7 @@ Perfecto, aquí tienes la **versión sin respuestas** lista para entregar al alu
 
 **Pregunta 1.**
 ¿Qué es un lenguaje de marcas?
-a) Un lenguaje que se usa para programar videojuegos
+a) Un  lenguaje que se usa para programar videojuegos
 b) Un lenguaje que organiza y describe información con etiquetas
 c) Un lenguaje para crear algoritmos matemáticos
 d) Un lenguaje que convierte datos en gráficos automáticamente
